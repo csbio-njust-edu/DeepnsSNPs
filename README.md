@@ -30,7 +30,7 @@ We apply the SANN program to generate PRSA. Ultimately, we could get the PRSA ma
 For more detail information about SANN software, please refer to:
 Joo K, Lee S J, Lee J, et al. Sann: Solvent accessibility prediction of proteins by nearest neighbor method[J]. Proteins, 2012, 80(7): 1791-1797
 
-### 4. Disorder
+### 4. Predicted Protein Disorder Ranges
 Dynamically disordered regions appear to be relatively abundant in eukaryotic proteomes. The DISOPRED server allows users to submit a protein sequence, and returns a probability estimate of each residue in the sequence being disordered. The results are sent in both plain text and graphical formats, and the server can also supply predictions of secondary structure to provide further structural information.
 See more detail information, please refer to:
 Jonathan J. Ward, Liam J. McGuffin, Kevin Bryson, Bernard F. Buxton, David T. Jones, The DISOPRED server for the prediction of protein disorder, Bioinformatics, Volume 20, Issue 13, 1 September 2004, Pages 2138–2139, https://doi.org/10.1093/bioinformatics/bth195
